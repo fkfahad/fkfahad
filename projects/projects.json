@@ -1,0 +1,32 @@
+[
+  {
+    "name": "আম সেল ডিজাইন",
+    "desc": "ডিজাইনটির PLP ফাইল ডাউনলোড করতে আমাদের সাথে যোগাযোগ করুন,অথবা ফ্রী ডাউনলোড করুম।",
+    "image": "smd3",
+    "category": "smd",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/notystack-android"
+    }
+  },
+  {
+    "name": "ডিজাইন নাম",
+    "desc": "ডিজাইনটির PLP ফাইল ডাউনলোড করতে আমাদের সাথে যোগাযোগ করুন,অথবা ফ্রী ডাউনলোড করুন।",
+    "image": "smd2",
+    "category": "smd",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/sppu-prep-android"
+    }
+  },
+  {
+    "name": "Indian Temples",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "templeweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
